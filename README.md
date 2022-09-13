@@ -23,3 +23,6 @@ LONG TERM GOALS
 -Add character vs. monster and character vs. character combat simulation
 -Add spells to database. Will need to determine what attributes to pull along will a script for reading all the spells as manually putting the infromation in would take a LONG time.
 -Create separate player and GM tools. Not sure how necessary this would be but might be a good exercise in pulling different files into a main program. 
+
+
+I do not own anything related to Dungeons and Dragons and all intellectual properties are the property of their respective owners. This is an open, fan-based project which is not intended for commerical uses or sales. 
